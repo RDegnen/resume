@@ -27,6 +27,7 @@ p {
 
 ul {
   list-style: none;
+  width: 500px;
 }
 
 ul li {
